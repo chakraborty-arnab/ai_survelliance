@@ -43,6 +43,6 @@ export OPENAI_API_KEY=your_openai_api_key_here
 
 ### 5. Run the following scripts (It uses handshake.mp4 from assets by default)
 ```bash
-video_recognizer.py
-interaction_summarizer.py
+python video_recognizer.py
+python interaction_summarizer.py
 ```
