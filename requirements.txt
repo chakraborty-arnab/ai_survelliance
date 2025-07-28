@@ -1,0 +1,11 @@
+pandas
+transformers
+pillow
+torch
+torchvision
+python-dotenv
+openai
+opencv-python
+cmake
+dlib
+face_recognition
