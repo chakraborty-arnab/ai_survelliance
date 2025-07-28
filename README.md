@@ -46,3 +46,8 @@ export OPENAI_API_KEY=your_openai_api_key_here
 python video_recognizer.py
 python interaction_summarizer.py
 ```
+
+This process will generate the following output files:
+* recognized_faces.csv – Contains a list of identified individuals along with relevant metadata.
+* scene_descriptions.txt – Includes detailed scene descriptions and the final summary of video content.
+
