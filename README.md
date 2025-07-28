@@ -22,7 +22,7 @@ Summarize key frames and face recognition logs using GPT-4o or any compatible vi
 
 ```bash
 git clone https://github.com/chakraborty-arnab/ai-survelliance.git
-cd interaction-analytics
+cd ai_survelliance
 ```
 
 ### 2. Create and Activate Conda Environment
